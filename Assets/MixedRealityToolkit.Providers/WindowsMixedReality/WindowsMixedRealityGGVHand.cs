@@ -10,7 +10,6 @@ using UnityEngine.XR.WSA.Input;
 #endif
 
 #if WINDOWS_UWP
-
 using System;
 using System.Collections.Generic;
 using Windows.Perception;

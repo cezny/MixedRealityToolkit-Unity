@@ -222,6 +222,10 @@ namespace Microsoft.MixedReality.Toolkit.Input
                 }
             }
 
+            public override void OnCurrentPointerTargetAboutToChange()
+            {
+            }
+
             /// <inheritdoc />
             public override Vector3 Position
             {
